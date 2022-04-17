@@ -1,2 +1,2 @@
 # WOODER-PROJECT
-This is my first project about coding a landing page.
+This is my first project about coding a landing page with skills of HTML, SCSS, JQUERY, JAVASCRIPT...
