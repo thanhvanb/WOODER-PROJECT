@@ -1,2 +1,2 @@
 # Wooder-project
- 
+ This is my first project to code a landing page with skills of html, scss, Javascript, Jquery...
